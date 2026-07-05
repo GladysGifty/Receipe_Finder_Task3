@@ -21,7 +21,7 @@ https://github.com/GladysGifty/Recipe-Finder
 
 The detailed project report is available in this repository:
 
-**Task3_Recipe_Finder_Report.pdf**
+**Task_3_Recipe_Finder.pdf**
 
 ---
 
