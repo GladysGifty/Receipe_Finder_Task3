@@ -7,7 +7,7 @@ This repository contains the complete source code and documentation for **Task 3
 
 ## 🌐 Live Demo
 
-https://YOUR-NETLIFY-LINK.netlify.app/
+gladys-gifty-recipe-finder.netlify.app
 
 ---
 
